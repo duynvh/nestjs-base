@@ -29,7 +29,7 @@
     "automapper-nartc": "^6.1.3",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mongoose": "^5.9.17",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
